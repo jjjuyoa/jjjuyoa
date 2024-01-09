@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:79DEF5,100:11C4EC&height=180&section=header&text=Nice%20to%20meet%20you!%20🙌&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff)
+
 <h1 align="left">Hello 👋, I'm Jeonghwan Kim, a developer who always thinks '?'.</h1>
 <h3 align="left">Developer who is not afraid of learning and challenges.</h3>
 
